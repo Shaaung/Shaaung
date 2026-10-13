@@ -1,10 +1,13 @@
 ### Hi, I'm Michele Chen
 
-**Data Analytics · Data Engineering · AI Applications**
+**Business & Data Analytics · Business Intelligence · AI Applications**
 
-I build projects that connect data, analysis, and AI to practical questions—from understanding weather and traffic patterns to developing research assistants and multi-agent workflows.
+I connect business needs, data, and systems to support better decisions. My experience spans financial analysis, data validation, and business reporting, complemented by projects in data engineering and AI applications.
 
-My work focuses on clear system design, reproducible data pipelines, and documenting what an application can do and where it still needs improvement.
+- **Business analysis — ASUS:** Nearly four years as a Business Analyst, with experience supporting forecasting, performance tracking, and business decision-making.
+- **Business intelligence & data quality — NBCUniversal:** Business Systems Analyst internship in Studio Operations, validating data across SQL Server, source systems, and Power BI; investigating reporting inconsistencies and supporting dashboard development and testing.
+- **Data engineering & AI projects:** End-to-end analytics pipelines, an AI research assistant with document RAG and persistent memory, and Scenario Agent development in a team multi-agent project.
+- **Education:** MS Business Analytics candidate at UCLA Anderson School of Management.
 
 ---
 
@@ -24,6 +27,8 @@ My work focuses on clear system design, reproducible data pipelines, and documen
 
 **Data pipelines and analytics:** Python · PySpark · Google Cloud Platform · Snowflake · Tableau
 
+**Business intelligence and reporting:** SQL · SQL Server · Power BI · Data validation
+
 ### What I'm exploring
 
 - Building research assistants with traceable sources and persistent context.
@@ -32,4 +37,4 @@ My work focuses on clear system design, reproducible data pipelines, and documen
 
 ### Connect
 
-Browse the projects above for implementation details, architecture, and documented results.
+[LinkedIn](https://www.linkedin.com/in/mc-michele/) · [GitHub projects](https://github.com/Shaaung?tab=repositories)
